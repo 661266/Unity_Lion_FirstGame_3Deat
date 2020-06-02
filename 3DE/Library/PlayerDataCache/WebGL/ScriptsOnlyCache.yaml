@@ -15,7 +15,9 @@ ScriptsOnlyBuild:
     - UnityEngine.Rendering.PostProcessing.LensDistortion
     - UnityEngine.Rendering.PostProcessing.MotionBlur
     - UnityEngine.Rendering.PostProcessing.PostProcessLayer
+    - UnityEngine.Rendering.PostProcessing.PostProcessProfile
     - UnityEngine.Rendering.PostProcessing.PostProcessResources
+    - UnityEngine.Rendering.PostProcessing.PostProcessVolume
     - UnityEngine.Rendering.PostProcessing.ScreenSpaceReflections
     - UnityEngine.Rendering.PostProcessing.Vignette
     Unity.Rider.Editor.dll:
@@ -84,6 +86,12 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11238}
     - Class: 114
+      Script: {instanceID: 11258}
+    - Class: 114
+      Script: {instanceID: 11360}
+    - Class: 114
+      Script: {instanceID: 11370}
+    - Class: 114
       Script: {instanceID: 11422}
     - Class: 114
       Script: {instanceID: 11446}
@@ -92,17 +100,33 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11562}
     - Class: 114
+      Script: {instanceID: 11580}
+    - Class: 114
+      Script: {instanceID: 11622}
+    - Class: 114
+      Script: {instanceID: 11652}
+    - Class: 114
       Script: {instanceID: 11872}
     - Class: 114
       Script: {instanceID: 11950}
     - Class: 114
+      Script: {instanceID: 12090}
+    - Class: 114
       Script: {instanceID: 12292}
+    - Class: 114
+      Script: {instanceID: 12340}
     - Class: 114
       Script: {instanceID: 12434}
     - Class: 114
       Script: {instanceID: 13010}
     - Class: 114
       Script: {instanceID: 13116}
+    - Class: 114
+      Script: {instanceID: 13316}
+    - Class: 114
+      Script: {instanceID: 13324}
+    - Class: 114
+      Script: {instanceID: 13362}
     - Class: 114
       Script: {instanceID: 13454}
     - Class: 115
